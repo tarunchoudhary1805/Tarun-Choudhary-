@@ -1,2 +1,2 @@
-# Tarun-Choudhary-
+# Tarun-Choudhary
 my portfolio website using reactjs
